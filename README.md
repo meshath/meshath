@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! I am Meshath.<br><br>👨‍🎓Undergraduate at CINEC Campus.<br><br>Currently pursuing BSc(Hons) Computer Science in Network Security and Forensics.<br><br>Creative Problem Solver | Life long Lerner.<br><br>🧠Levelling up my skills in Python, Java, MySQL.
+👋 Hello! I am Meshath.<br>👨‍🎓Undergraduate at CINEC Campus.<br>Currently pursuing BSc(Hons) Computer Science in Network Security and Forensics.<br>Creative Problem Solver | Life long Lerner.<br>🧠Levelling up my skills in Python, Java, MySQL.
 
 
 ## 🌐 Socials:
@@ -14,6 +14,8 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=meshath&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
